@@ -25,7 +25,7 @@ SECRET_KEY = '9c!4u8x-98ub39n8-c)tx7)6(+^ew+^2n-3+xf^*_p@@#6b3zd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<BambiWho>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'BambiWho.pythonanywhere.com']
 
 
 # Application definition
